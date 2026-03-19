@@ -22,6 +22,7 @@ This project collects, processes, and visualises Perth property market data to a
 
 | `get_abs_data.py` | Fetch Perth LGA population from ABS API (2018-2023) |
 | `process_property_data.py` | Clean and process 33,549 property transactions |
+| `calculate_value_score.py` | Composite value scoring across 310 Perth suburbs |
 
 ## Status
 
